@@ -1,5 +1,6 @@
-# [GenerativeFaceCompletion]
+# [Face Parsing]
 
+This project provides a python API for an existing face parsing project. 
 
 ## Testing
 
