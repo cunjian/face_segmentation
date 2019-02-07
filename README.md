@@ -1,6 +1,9 @@
-# [GenerativeFaceCompletion](https://sites.google.com/site/yijunlimaverick/facecompletion)
+# [GenerativeFaceCompletion]
 
 
 ## Testing
 
+## Reference:
+
+1. https://sites.google.com/site/yijunlimaverick/facecompletion
 
